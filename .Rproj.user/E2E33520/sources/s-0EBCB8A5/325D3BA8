@@ -1,0 +1,24 @@
+{
+    "id": "325D3BA8",
+    "path": "~/Documents/Academia/GitWebsite3/config/_default/menus.toml",
+    "project_path": "config/_default/menus.toml",
+    "type": "toml",
+    "hash": "2741572043",
+    "contents": "",
+    "dirty": false,
+    "created": 1597855671400.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "28,79",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1597855681,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1597855681918,
+    "read_only": false,
+    "read_only_alternatives": []
+}
