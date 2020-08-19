@@ -61,4 +61,4 @@ I very strongly support open-source software, and I believe students should be d
 | *Programming and data analysis* | MATLAB, Igor Pro | [RStudio](https://rstudio.com/) |
 | *Relational database management* | Microsoft Access | [DB Browser](https://sqlitebrowser.org/) |
 | *Geospatial analysis* | ArcGIS | [Q-GIS](https://www.qgis.org/en/site/) |
-| *GUI-based scientific plotting* | MATLAB, Grapher, Origin, Igor Pro, etc. | [Veusz](https://veusz.github.io/) |
+| *GUI-based scientific plotting* | Grapher, Origin, Igor Pro, etc. | [Veusz](https://veusz.github.io/) |
