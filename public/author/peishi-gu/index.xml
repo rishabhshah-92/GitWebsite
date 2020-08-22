@@ -17,7 +17,10 @@
       <link>/publication/est-oaklandlur/</link>
       <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/publication/est-oaklandlur/</guid>
-      <description></description>
+      <description>&lt;p&gt;Keywords: land-use regression, statistical modeling, urban particulate matter, vehicular emissions, cooking emissions&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;This study presents land-use regression (LUR) models for submicron particulate matter (PM) components from an urban area. This study represents the first time that LUR has been applied to source-resolved PM. Our stepwise selective LUR algorithm largely selected predictors for primary factors that correspond to the associated land-use categories (e.g., cooking land-use variables were selected in cooking-related PM models). This finding appears to be robust, as we demonstrate the predictive link between land-use variables and the corresponding source-resolved PM components through a subsampling analysis.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
