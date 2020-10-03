@@ -5,12 +5,25 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Rishabh Shah, PhD</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Rishabh Shah, PhD</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Socio-economic disparities in exposure to urban restaurant emissions are larger than for traffic</title>
+      <link>/publication/erl-restaurantej/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/erl-restaurantej/</guid>
+      <description>&lt;p&gt;Keywords: restaurant emissions, environmental justice, spatial patterns of particulate matter, mobile sampling&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We observe increments in cooking PM levels within a 250 m buffer of restaurants, with variations occurring due to variables such as restaurant density and peak cooking times. These increments are representative of long-term averages, as well as acute episodes. Restaurant PM emissions are unevenly distributed among different socio-economic groups. In areas near restaurant emissions, the population comprises of more non-White population groups (African American, Hispanic, Asian, etc.), and a lower economic status, compared to areas far from restaurant emissions. Any socio-economic disparities in long-term and acute exposures to highway emissions are, at most, mild, and certainly small compared to disparities in exposure to restaurant emissions.&lt;/p&gt;
+&lt;h2 id=&#34;behind-the-scenes&#34;&gt;&lt;strong&gt;Behind the scenes&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;To be added&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Urban Oxidation Flow Reactor Measurements Reveal Significant Secondary Organic Aerosol Contributions from Volatile Emissions of Emerging Importance</title>
@@ -36,13 +49,25 @@
     </item>
     
     <item>
-      <title>Land-Use Regression Modeling of Source-Resolved Fine Particulate Matter Components from Mobile Sampling</title>
-      <link>/publication/est-oaklandlur/</link>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/est-oaklandlur/</guid>
-      <description>&lt;p&gt;Keywords: land-use regression, statistical modeling, urban particulate matter, vehicular emissions, cooking emissions&lt;/p&gt;
+      <title>High-spatial-resolution mapping and source apportionment of aerosol composition in Oakland, California, using mobile aerosol mass spectrometry</title>
+      <link>/publication/acp-oakland/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/acp-oakland/</guid>
+      <description>&lt;p&gt;Keywords: spatial patterns of particulate matter, mobile sampling, mass spectrometry, vehicular emissions, cooking emissions&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;This study presents land-use regression (LUR) models for submicron particulate matter (PM) components from an urban area. This study represents the first time that LUR has been applied to source-resolved PM. Our stepwise selective LUR algorithm largely selected predictors for primary factors that correspond to the associated land-use categories (e.g., cooking land-use variables were selected in cooking-related PM models). This finding appears to be robust, as we demonstrate the predictive link between land-use variables and the corresponding source-resolved PM components through a subsampling analysis.&lt;/p&gt;
+&lt;p&gt;We measured spatial differences in airborne particulate matter (PM) in Oakland, CA, with repeated mobile measurements on all city streets. In addition to primary, we also find higher secondary organic PM downtown, which suggests stronger photochemical PM production in areas of high emissions and poor air ventilation (i.e., urban street canyons). This finding is original because while other modeling studies have predicted higher photochemistry in street canyons, we confirm this observationally.&lt;/p&gt;
+&lt;h2 id=&#34;behind-the-scenes&#34;&gt;&lt;strong&gt;Behind the scenes&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Yes, we drove our instrumented van from Pittsburgh, PA to Berkeley, CA. And yes, it was beautiful, especially once we were west of Kansas (some pictures below).&lt;/p&gt;
+&lt;p&gt;Though the paper says that the measurement campaign began on 10th July 2017, it was originally supposed to begin on 24th June 2017. However, upon arrival in Berkeley, we discovered that our instrument was not working. We ended up spending 2 weeks trying to fix the instrument. This involved taking apart the instrument again and again, ruling out one potential source of malfunction after the next. Every day was the same drill: open a part of the instrument, visually inspect the complex circuitry, take lots of pictures, put it back together. And all this while also exchanging emails and phone calls with the instrument manufacturer, desperate shouts for help in the Berkeley area, even a trip up to Davis, CA, in the hopes of getting diagnostic help from researchers at UC Davis. Finally, it turned out to be a bad electric connection in a high-voltage unit of the instrument. Here&amp;rsquo;s a picture of me preparing a soldering station to fix this connection at our AirBnB.
+&lt;img src=&#34;Images/Soldering.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;And now, here are some pictures of the road trip:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Colorado&lt;/em&gt; &lt;img src=&#34;Images/Colorado.jpg&#34; alt=&#34;image&#34;&gt;
+&lt;em&gt;Wyoming&lt;/em&gt; &lt;img src=&#34;Images/Wyoming.jpg&#34; alt=&#34;image&#34;&gt;
+&lt;em&gt;Utah&lt;/em&gt; &lt;img src=&#34;Images/Utah.jpg&#34; alt=&#34;image&#34;&gt;
+&lt;em&gt;Nevada&lt;/em&gt; &lt;img src=&#34;Images/Nevada.jpg&#34; alt=&#34;image&#34;&gt;
+&lt;em&gt;California&lt;/em&gt; &lt;img src=&#34;Images/California.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -61,29 +86,6 @@
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>High-spatial-resolution mapping and source apportionment of aerosol composition in Oakland, California, using mobile aerosol mass spectrometry</title>
-      <link>/publication/acp-oakland/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/acp-oakland/</guid>
-      <description>&lt;p&gt;Keywords: spatial patterns of particulate matter, mobile sampling, mass spectrometry, vehicular emissions, cooking emissions&lt;/p&gt;
-&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;We measured spatial differences in airborne particulate matter (PM) in Oakland, CA, with repeated mobile measurements on all city streets. In addition to primary, we also find higher secondary organic PM downtown, which suggests stronger photochemical PM production in areas of high emissions and poor air ventilation (i.e., urban street canyons). This finding is original because while other modeling studies have predicted higher photochemistry in street canyons, we confirm this observationally.&lt;/p&gt;
-&lt;h2 id=&#34;behind-the-scenes&#34;&gt;&lt;strong&gt;Behind the scenes&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Yes, we drove our instrumented van from Pittsburgh, PA to Berkeley, CA. And yes, it was beautiful, especially once we were west of Kansas (some pictures below).&lt;/p&gt;
-&lt;p&gt;Though the paper says that the measurement campaign began on 10th July 2017, it was originally supposed to begin on 24th June 2017. However, upon arrival in Berkeley, we discovered that our instrument was not working. We ended up spending 2 weeks trying to fix the instrument. This involved taking apart the instrument again and again, ruling out one potential source of malfunction after the next. Every day was the same drill: open a part of the instrument, visually inspect the complex circuitry, take lots of pictures, put it back together. And all this while also exchanging emails and phone calls with the instrument manufacturer, desperate shouts for help in the Berkeley area, even a trip up to Davis, CA, in the hopes of getting diagnostic help from researchers at UC Davis. Finally, it turned out to be a bad electric connection in a high-voltage unit of the instrument. Here&amp;rsquo;s a picture of me preparing a soldering station to fix this connection at our AirBnB.
-&lt;img src=&#34;Images/Soldering.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;And now, here are some pictures of the road trip:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Colorado&lt;/em&gt; &lt;img src=&#34;Images/Colorado.jpg&#34; alt=&#34;image&#34;&gt;
-&lt;em&gt;Wyoming&lt;/em&gt; &lt;img src=&#34;Images/Wyoming.jpg&#34; alt=&#34;image&#34;&gt;
-&lt;em&gt;Utah&lt;/em&gt; &lt;img src=&#34;Images/Utah.jpg&#34; alt=&#34;image&#34;&gt;
-&lt;em&gt;Nevada&lt;/em&gt; &lt;img src=&#34;Images/Nevada.jpg&#34; alt=&#34;image&#34;&gt;
-&lt;em&gt;California&lt;/em&gt; &lt;img src=&#34;Images/California.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     

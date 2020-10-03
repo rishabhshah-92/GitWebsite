@@ -7,9 +7,9 @@ authors:
 - Joshua S. Apte
 - Allen L. Robinson
 - Albert A. Presto
-date: "2015-09-01T00:00:00Z"
+date: "2018-11-16"
 doi: "10.5194/acp-18-16325-2018"
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: ""
@@ -24,7 +24,7 @@ summary:
 title: High-spatial-resolution mapping and source apportionment of aerosol composition in Oakland, California, using mobile aerosol mass spectrometry
 url_code: ""
 url_dataset: ""
-url_pdf: https://acp.copernicus.org/articles/18/16325/2018/acp-18-16325-2018.pdf
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_source: ""

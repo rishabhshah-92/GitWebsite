@@ -29,7 +29,7 @@ summary:
 title: Urban Oxidation Flow Reactor Measurements Reveal Significant Secondary Organic Aerosol Contributions from Volatile Emissions of Emerging Importance
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.researchgate.net/publication/338025704_Urban_Oxidation_Flow_Reactor_Measurements_Reveal_Significant_Secondary_Organic_Aerosol_Contributions_from_Volatile_Emissions_of_Emerging_Importance
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_source: ""
