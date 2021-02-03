@@ -66,3 +66,4 @@ I very strongly support open-source software, and I believe students should be d
 | *Geospatial analysis* | ArcGIS | [Q-GIS](https://www.qgis.org/en/site/) |
 | *GUI-based scientific plotting* | Grapher, Origin, Igor Pro, etc. | [Veusz](https://veusz.github.io/) |
 | *Figure editing* | Photoshop, Illustrator, etc. | [Inkscape](https://inkscape.org/) |
+| *Operating system* | macOS, Windows | [Ubuntu](https://ubuntu.com/download/desktop), [Mint](https://linuxmint.com/)|
