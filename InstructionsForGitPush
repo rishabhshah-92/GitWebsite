@@ -1,0 +1,7 @@
+# cd into GitWebsite3 folder
+
+git add .
+
+git commit -m "Label for this commit"
+
+git push origin master
